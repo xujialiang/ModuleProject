@@ -5,7 +5,7 @@
 			"svn":"https://modules.com/svn",
 			"dependence":["Module2"],
 			"pod_dependence":["'SDWebImage','~>3.7'","'JSONKit'"],
-			"3rd":["UIKit+AFNetworking"]
+			"thirdpart":["UIKit+AFNetworking"]
 		}
 	}
 }
