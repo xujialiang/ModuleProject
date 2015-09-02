@@ -4,7 +4,7 @@
 			"git":"https://modules.com/git",
 			"svn":"https://modules.com/svn",
 			"dependence":["Module2"],
-			"pod_dependence":["'SDWebImage','~>3.7'","'JSONKit'"],
+			"pod_dependence":["'SDWebImage','~>3.7'"],
 			"thirdpart":["UIKit+AFNetworking"]
 		}
 	}
