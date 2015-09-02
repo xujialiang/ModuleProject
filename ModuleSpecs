@@ -3,9 +3,9 @@
 		"Module1":{
 			"git":"https://modules.com/git",
 			"svn":"https://modules.com/svn",
-			"dependence":["",""],
-			"pod_dependence":["",""],
-			"3rd":["",""]
+			"dependence":["Module2"],
+			"pod_dependence":[{"SDWebImage":"~>3.7"}],
+			"3rd":["UIKit+AFNetworking"]
 		}
 	}
 }
